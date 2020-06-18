@@ -84,7 +84,6 @@ m <- leaflet() %>%
                                  cr_ara_ambiguus$year, cr_pharomachrus_mocinno$year,
                                  sep = '<br/>'
                            )
-                   
   ) %>%
   addCircleMarkers(data = cr_pharomachrus_mocinno, 
                    stroke = F,
