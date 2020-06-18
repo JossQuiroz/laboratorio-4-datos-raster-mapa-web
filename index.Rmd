@@ -28,7 +28,7 @@ library(rgdal)
 ```
 ## Descripción general
 
-En este laboratorio, se elaboraró un mapa web con el paquete Leaflet del lenguaje de programación R, para visualizar datos ambientales y de biodiversidad.
+En este laboratorio se elaboró un mapa web con el paquete Leaflet del lenguaje de programación R, para visualizar datos ambientales y de biodiversidad.
 
 ### Desarrollo 
 - (10%) Tres capas base tipo Tile.
